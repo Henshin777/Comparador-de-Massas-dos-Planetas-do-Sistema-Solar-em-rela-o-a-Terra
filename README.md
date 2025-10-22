@@ -34,4 +34,4 @@ tornando o aprendizado sobre astronomia mais acessível.
 - Interface moderna e intuitiva via Streamlit.
 
 ---
-Feito com por |YAN FELIPE|
+Feito por |YAN FELIPE|
